@@ -1,0 +1,28 @@
+{
+  "name": "usestatemodel",
+  "version": "1.0.0",
+  "description": "wrapper object of state, setstate with field based updater",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "useStateModel"
+  },
+  "keywords": [
+    "react",
+    "hook",
+    "state",
+    "statewrapper",
+    "wrapper"
+  ],
+  "author": "m3rtali",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.9.3"
+  },
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}
